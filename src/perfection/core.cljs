@@ -1,3 +1,3 @@
 (ns perfection.core)
 
-(.log js/console "Hi")
+(.log js/console "Hi again")
